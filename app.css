@@ -1,0 +1,52 @@
+main {
+margin: 5px;
+}
+
+.card-left {
+height: 690px;
+margin-left: 20px;
+line-height: 2;
+}
+
+.card-img-top{
+   height: 200px;
+   width: 200px;
+}
+
+.btn-light:hover {
+    background-color: grey;
+    color: white;
+}
+
+hr {
+    border: solid 1px grey;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.card-grey {
+background-color: grey;
+color: white;
+text-align: center;
+}
+
+.card-grey button {
+    border: solid 1px white;
+}
+
+.star {
+    width: 30px;
+}
+
+.card-second li {
+    list-style-type: none;
+}
+
+.card-second img {
+    width: 30px;
+}
+
+.btn.btn-success {
+    margin-left: 50px;
+    width: 120px;
+}
